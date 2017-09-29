@@ -1,4 +1,4 @@
-#script by Tamilan info tech
+#script by pressikid
 #cracking the DVWA login page
 
 import mechanize #importing the mechanize module
