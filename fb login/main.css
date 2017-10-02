@@ -1,0 +1,92 @@
+.top1{
+	background-color: #3B5998;
+	display: block;
+	padding-bottom: 7px
+
+
+}
+.innerone{
+	  display: block;
+      margin-left:184px;
+      margin-right: 184px;
+      padding-top: 13;
+      
+}
+.innerone h1{
+	  display: block;
+      font-size: 45px;
+      margin-top: 10;
+      margin-bottom: 0px;
+      padding: 0;
+      color: white;
+      font-family: Calibri;
+
+}
+#signup{
+	margin-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left:8;
+	padding-right: 8;  
+	display: inline-block;
+	background-color: #42b72a;
+	border-color: #42b72a;
+	text-align: center;
+    text-shadow: none;
+	font-family: Calibri;
+	border: 1px solid #42b72a;
+    border-radius: 2px;
+	color: white;
+}
+
+.middleone h1{
+	padding-top: 40px;
+    text-align: center;
+    font-family: Consolas;
+    font-size: 18px;
+    line-height: 22px;
+}
+.middleone{
+     margin-right: 367;
+     margin-left: 367;
+     background-color: #FFFFFF;
+     font-size: 12px;
+     margin-left: 367;
+     margin-right: 367;
+     margin-top: 90px;
+     padding-bottom: 60px;
+}
+
+.form{
+
+	 padding-top: 20px;
+     margin-left: 170px;
+	}
+.form input{
+	display: block;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 15px;
+	width: 290;
+	background-color: white;
+}	
+.form input[type="submit"]{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	background-color: #365899;
+	color: white;
+	border: 1px solid #365899;
+}
+
+.forgot_pass {
+      font-size: 20px;
+}
+
+
+	
+
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #E9EBEE;
+}
