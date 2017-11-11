@@ -1,0 +1,133 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #eceff5;
+}
+
+.header{
+	display: block;
+    width: 100%;
+    background-color:#3b5998;
+    height: 44;
+}
+.header1 h1{
+	color:white;
+	text-align: center;
+	font-size: 30px;
+	padding-top: 5px;
+	
+}
+.info_of_mobile{
+	width: 100%;
+	display: block;
+	background-color: #FEFFE0;
+	height: 50;
+	border: 1px solid #E0D300;
+	align-items: center;
+	border-radius:8px;
+	border-width: 1px;
+	border-style: solid;
+	margin-top:20px;
+}
+.icon img{
+	width: 18;
+	height: 32;
+	margin-left: 19px;
+	padding-top: 10px;
+	
+	
+
+}
+.icon2 p{
+	text-align:left;
+	color:#3b5998;
+	font-style: Roboto, 'Droid Sans', Helvetica, sans-serif;
+	margin-left: 50px;
+	margin-bottom: 50px;
+	line-height: 18px;
+	cursor: pointer;
+	direction: ltr;
+	text-size-adjust:100%;
+}
+.icon2{
+	position: absolute;
+	top:60px;
+}
+/*form editing */
+.input{
+	margin-top: 30px;
+	text-align: center;
+	display: block;
+}
+.input input{
+	width: 330;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 14px;
+	font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+	cursor: auto;
+}
+#user{
+	border-top: 1px solid white;
+	border:1px solid #EBEEF5;
+	border-radius: 4px;
+	padding-left: 20px;
+}
+#pass{
+	border-bottom: 1px solid white;
+	border:1px solid #EBEEF5;
+	border-radius: 4px;
+	padding-left: 20px;
+}
+#submit{
+	margin-top:15px;
+	font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+	font-size: 16;
+	color: white;
+	background-color:#5D68A1;
+	border:1px solid #5D68A1;
+	border-radius: 4px;
+}
+
+.forgot{
+	color: #7596c8;
+	text-align: center;
+}
+.forgot a{
+	text-decoration: none;
+	font-size: 14;
+	color: #7596c8;
+}
+.forgot span{
+	margin-left:5px;
+}
+/*footer part*/
+footer{
+	margin-top: 30px;
+	background-color: white;
+	height: 50%;
+}
+.one{
+	display: block;
+	text-align: center;
+	padding-top: 10px;
+
+}  
+.one a{
+	margin-top: 10px;
+	text-align: center;
+	text-decoration: none;
+	color:#7596c8;
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+.finish{
+	margin-top: 30px;
+	color: #737373;
+	font-size: 13;
+	text-align: center;
+}
+
+
+
